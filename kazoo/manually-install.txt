@@ -1,0 +1,15 @@
+ubuntu:
+
+1 install erlang
+https://2600hz.atlassian.net/wiki/display/Dedicated/Step+1+-+Install+Erlang
+
+
+2 install AMQP
+https://2600hz.atlassian.net/wiki/display/Dedicated/Step+2+-+Install+AMQP
+
+
+3 install bigcouch
+	* http://bigcouch.cloudant.com/develop  to install the bigcouch
+	* https://2600hz.atlassian.net/wiki/display/Dedicated/Step+3+-+Install+BigCouch to set the bigcouch for kazoo
+
+
